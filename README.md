@@ -25,8 +25,7 @@ Users should be able to:
 ![](./design/desktop-design.jpg)
 
 ### Links
-- Live Site URL: https://gogu69.github.io/product-card/-DE MODIFICAT
-
+- Live Site URL: https://gogu69.github.io/QR-code-card/
 
 ## My process
 
