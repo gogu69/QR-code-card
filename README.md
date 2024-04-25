@@ -1,6 +1,6 @@
 # Product card component
 
-[Design preview for the Product preview card component coding challenge](./readme/product-preview.png-DE MODIFICAT).
+[Design preview for the QR card](./design/desktop-design.jpg).
 
 ## Table of contents
 
